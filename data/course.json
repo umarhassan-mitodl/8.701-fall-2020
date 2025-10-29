@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2020",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Particle Physics"
+    ]
+  ],
+  "legacy_uid": "c4b8ebfd-a8b2-355d-93d7-02de0d10da65",
+  "instructors": {
+    "content": [
+      "c115f319-2adc-acbe-b7a3-c29d3bf1d75c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ab26e592-2052-acb9-8b14-9656576487f4",
+    "website": "8-701-introduction-to-nuclear-and-particle-physics-fall-2020"
+  },
+  "course_title": "Introduction to Nuclear and Particle Physics",
+  "course_description": "This is an introductory graduate-level course on the phenomenology and experimental foundations of nuclear and particle physics, including the fundamental forces and particles, as well as composites. Emphasis is on the experimental establishment of the leading models, and the theoretical tools and experimental apparatus used to establish them.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.701",
+  "course_image_thumbnail": {
+    "content": "d5f020df-04a7-d49b-c808-36feeb460de1",
+    "website": "8-701-introduction-to-nuclear-and-particle-physics-fall-2020"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets with Solutions",
+    "Lecture Notes",
+    "Presentation Assignments"
+  ],
+  "site_uid": "5e360c1c-722f-4f81-851a-be8cc6ac5361",
+  "site_short_id": "8.701-fall-2020",
+  "site_url_path": "courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020",
+  "title": "Course Metadata"
+}

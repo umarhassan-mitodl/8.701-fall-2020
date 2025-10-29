@@ -1,0 +1,76 @@
+leftnav:
+- identifier: de8ecb25-830c-61ad-8279-b4d4dc508005
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 82effbc6-0d78-a950-02bb-b94bd88aa16a
+  name: Video Lectures
+  pageRef: /pages/video-lectures/
+  weight: 20
+- identifier: 00f1d787-7dd6-c6ab-86fa-05e23037ce9e
+  name: Chapter 0. Introduction
+  pageRef: /pages/video-lectures/chapter-0--introduction
+  parent: 82effbc6-0d78-a950-02bb-b94bd88aa16a
+  weight: 30
+- identifier: 541ed54b-ca01-1ae6-c93f-3e4894265c66
+  name: Chapter 1. Fermions, Bosons, and Fields
+  pageRef: /pages/video-lectures/chapter-1--fermions-bosons-and-fields
+  parent: 82effbc6-0d78-a950-02bb-b94bd88aa16a
+  weight: 40
+- identifier: d2b271d8-0b70-02c8-8970-68f0acab2a6d
+  name: Chapter 2. Symmetries
+  pageRef: /pages/video-lectures/chapter-2--symmetries
+  parent: 82effbc6-0d78-a950-02bb-b94bd88aa16a
+  weight: 50
+- identifier: 07284824-3e45-3cd9-63bd-762605c5e6b8
+  name: Chapter 3. Feynman Calculus
+  pageRef: /pages/video-lectures/chapter-3--feynman-calculus
+  parent: 82effbc6-0d78-a950-02bb-b94bd88aa16a
+  weight: 60
+- identifier: 261d62f3-5d97-9dd7-607b-034c59d248ec
+  name: Chapter 4. QED
+  pageRef: /pages/video-lectures/chapter-4--qed
+  parent: 82effbc6-0d78-a950-02bb-b94bd88aa16a
+  weight: 70
+- identifier: 0e3bc8fd-79ce-aa37-b689-321c9a45efd5
+  name: Chapter 5. QCD
+  pageRef: /pages/video-lectures/chapter-5--qcd
+  parent: 82effbc6-0d78-a950-02bb-b94bd88aa16a
+  weight: 80
+- identifier: eb0d6835-336c-2643-ff7d-c38be60de661
+  name: Chapter 6. Weak Interactions
+  pageRef: /pages/video-lectures/chapter-6--weak-interactions
+  parent: 82effbc6-0d78-a950-02bb-b94bd88aa16a
+  weight: 90
+- identifier: 39878e29-51df-3794-21d1-8b0550df0b1e
+  name: Chapter 7. Higgs Physics
+  pageRef: /pages/video-lectures/chapter-7--higgs-physics
+  parent: 82effbc6-0d78-a950-02bb-b94bd88aa16a
+  weight: 100
+- identifier: 220b4d88-bdd4-794e-c2b7-924fb69cb924
+  name: Chapter 8. Neutrino Physics
+  pageRef: /pages/video-lectures/chapter-8--neutrino-physics
+  parent: 82effbc6-0d78-a950-02bb-b94bd88aa16a
+  weight: 110
+- identifier: 0dd779a3-c018-49c1-7508-cac9276a60cb
+  name: Chapter 9. Nuclear Physics
+  pageRef: /pages/video-lectures/chapter-9--nuclear-physics
+  parent: 82effbc6-0d78-a950-02bb-b94bd88aa16a
+  weight: 120
+- identifier: 326619bb-bbc2-9833-89c8-83cf4898ee7a
+  name: Chapter 10. Instrumentation
+  pageRef: /pages/video-lectures/chapter-10--instrumentation
+  parent: 82effbc6-0d78-a950-02bb-b94bd88aa16a
+  weight: 130
+- identifier: 75ab9f65-e7ec-e552-10bf-b2eca4629bf0
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 140
+- identifier: fb9fd190-f9d1-4fae-43ba-c049c46d74ad
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 150
+- identifier: da408d4d-5d5b-7887-9cb1-c80727794ea6
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 160
